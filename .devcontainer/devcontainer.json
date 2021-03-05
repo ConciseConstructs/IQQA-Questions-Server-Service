@@ -1,0 +1,5 @@
+{
+    "name": "iqqa-questions-server-service",
+    "dockerFile": "DockerFile",
+    "runArgs": ["-u", "node"],
+}
